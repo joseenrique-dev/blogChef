@@ -1,0 +1,11 @@
+.elementor-641 .elementor-element.elementor-element-a00d00c .elementor-spacer-inner{height:50px;}.elementor-641 .elementor-element.elementor-element-751c586{text-align:center;}.elementor-641 .elementor-element.elementor-element-751c586 .elementor-heading-title{color:#0C0C0D;font-family:"Poppins", Sans-serif;font-weight:400;text-decoration:underline;}.elementor-641 .elementor-element.elementor-element-22b6912 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-641 .elementor-element.elementor-element-71d3622 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-641 .elementor-element.elementor-element-9068244 .elementor-icon-list-icon{width:14px;}.elementor-641 .elementor-element.elementor-element-9068244 .elementor-icon-list-icon i{font-size:14px;}.elementor-641 .elementor-element.elementor-element-9068244 .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-641 .elementor-element.elementor-element-d0e2f1b .elementor-spacer-inner{height:50px;}.elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-icon i{color:#0C0C0D;font-size:14px;}.elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-icon svg{fill:#0C0C0D;--e-icon-list-icon-size:14px;}.elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-icon{width:14px;}.elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-text, .elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-text a{color:#212222;}.elementor-641 .elementor-element.elementor-element-a9735a8 .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-weight:400;text-transform:capitalize;}/* Start custom CSS for theme-post-featured-image, class: .elementor-element-71d3622 */.imgzoom:hover {
+    transform:scale(1.2);
+}
+
+.imgzoom {
+    transition-duration: 0.75s;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-22b6912 */.zoomcol {
+    height:420px;
+    overflow:hidden;
+}/* End custom CSS */

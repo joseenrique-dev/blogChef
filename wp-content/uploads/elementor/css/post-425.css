@@ -1,0 +1,12 @@
+.elementor-425 .elementor-element.elementor-element-e297726 .elementor-spacer-inner{height:50px;}.elementor-425 .elementor-element.elementor-element-dac5e35{text-align:center;}.elementor-425 .elementor-element.elementor-element-dac5e35 .elementor-heading-title{color:#0C0C0D;font-family:"Poppins", Sans-serif;font-weight:400;}.elementor-425 .elementor-element.elementor-element-02c1a48:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-425 .elementor-element.elementor-element-02c1a48 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0F0E0E;}.elementor-425 .elementor-element.elementor-element-02c1a48 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-425 .elementor-element.elementor-element-02c1a48 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-425 .elementor-element.elementor-element-15af393 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-425 .elementor-element.elementor-element-46bbb410{text-align:left;color:#232121;font-family:"Poppins", Sans-serif;font-size:22px;font-weight:400;}.elementor-425 .elementor-element.elementor-element-46bbb410 > .elementor-widget-container{margin:50px 0px 0px 0px;}.elementor-425 .elementor-element.elementor-element-18177cc .elementor-heading-title{color:#131414;font-family:"Fjalla One", Sans-serif;font-weight:600;}.elementor-425 .elementor-element.elementor-element-5c87dca{text-align:left;color:#000000;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-425 .elementor-element.elementor-element-372a3e6 .elementor-spacer-inner{height:150px;}:root{--page-title-display:none;}/* Start custom CSS for image, class: .elementor-element-15af393 */.imgzoom:hover {
+    transform:scale(1.2);
+    opacity: 0.7
+}
+
+.imgzoom {
+    transition-duration: 0.75s;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-02c1a48 */.zoomcol {
+    height:650px;
+    overflow:hidden;
+}/* End custom CSS */

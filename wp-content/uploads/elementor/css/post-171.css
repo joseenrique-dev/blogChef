@@ -1,0 +1,12 @@
+.elementor-171 .elementor-element.elementor-element-553555a .elementor-spacer-inner{height:50px;}.elementor-171 .elementor-element.elementor-element-69809d2{text-align:center;}.elementor-171 .elementor-element.elementor-element-69809d2 .elementor-heading-title{color:#0B0B0B;font-family:"Poppins", Sans-serif;font-weight:400;}.elementor-171 .elementor-element.elementor-element-6687cbd:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-171 .elementor-element.elementor-element-6687cbd > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#040303;}.elementor-171 .elementor-element.elementor-element-6687cbd > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-171 .elementor-element.elementor-element-6687cbd > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-171 .elementor-element.elementor-element-223abef > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-171 .elementor-element.elementor-element-0e8e4e6{color:#0A0909;font-family:"Poppins", Sans-serif;font-size:22px;font-weight:400;}.elementor-171 .elementor-element.elementor-element-0e8e4e6 > .elementor-widget-container{margin:50px 50px 50px 50px;}.elementor-171 .elementor-element.elementor-element-bc70dbf .elementor-heading-title{color:#0F0F10;}.elementor-171 .elementor-element.elementor-element-6ccb59c{color:#111010;}.elementor-171 .elementor-element.elementor-element-3b4aadd .elementor-spacer-inner{height:150px;}/* Start custom CSS for image, class: .elementor-element-223abef */.imgzoom:hover {
+    transform:scale(1.2);
+    opacity: 0.7
+}
+
+.imgzoom {
+    transition-duration: 0.75s;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-6687cbd */.zoomcol {
+    height:375px;
+    overflow:hidden;
+}/* End custom CSS */
